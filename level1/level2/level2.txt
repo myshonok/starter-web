@@ -1,1 +1,0 @@
-This guide describes how to install the PingDirectory server and its add-ons, PingDirectoryProxy, Delegated Admin, PingDataSync, and PingDataMetrics.

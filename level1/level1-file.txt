@@ -1,1 +1,0 @@
-PingDirectory offers a highly portable and scalable architecture that runs on multiple platforms and operating systems. The server is specifically optimized for operating systems used in environments that process a large number of entries.

@@ -1,1 +1,0 @@
-It contains instructions for preparing your environment for installation, obtaining or upgrading a Ping Identity license key, downloading the installation packages, and installing the servers. It also describes how to uninstall and upgrade the servers, and how to start, stop, and restart the servers.
